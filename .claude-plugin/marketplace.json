@@ -1,0 +1,15 @@
+{
+  "name": "vimninja",
+  "owner": {
+    "name": "VimNinja",
+    "email": "support@vimninja.com"
+  },
+  "description": "VimNinja's plugins for Claude: learn Vim where you already ask questions.",
+  "plugins": [
+    {
+      "name": "vim-tutor",
+      "source": "./vim-tutor",
+      "description": "Learn Vim in Claude: run Vim keys on your own text in a real Vim engine, then press them yourself. Practice, how-tos, daily Vim golf and a command reference, from VimNinja."
+    }
+  ]
+}

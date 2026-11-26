@@ -1,0 +1,24 @@
+{
+  "name": "vim-tutor",
+  "displayName": "Vim Tutor",
+  "version": "1.0.0",
+  "description": "Learn Vim in Claude: run Vim keys on your own text in a real Vim engine, then press them yourself. Practice, how-tos, daily Vim golf and a command reference, from VimNinja.",
+  "author": {
+    "name": "VimNinja",
+    "url": "https://www.vimninja.com"
+  },
+  "homepage": "https://www.vimninja.com/ai",
+  "repository": "https://github.com/jaipandya/vim-tutor-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "vim",
+    "neovim",
+    "vimtutor",
+    "learn vim",
+    "vim motions",
+    "vim keys",
+    "vim golf",
+    "vim cheat sheet"
+  ],
+  "privacyPolicyUrl": "https://www.vimninja.com/privacy#assistants"
+}

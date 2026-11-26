@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "vim-tutor": { "type": "http", "url": "https://www.vimninja.com/mcp/claude" }
+  }
+}
