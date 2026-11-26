@@ -20,5 +20,8 @@
     "vim golf",
     "vim cheat sheet"
   ],
-  "privacyPolicyUrl": "https://www.vimninja.com/privacy#assistants"
+  "privacyPolicyUrl": "https://www.vimninja.com/privacy#assistants",
+  "documentationUrl": "https://www.vimninja.com/ai",
+  "supportUrl": "mailto:support@vimninja.com",
+  "termsOfServiceUrl": "https://www.vimninja.com/terms"
 }
